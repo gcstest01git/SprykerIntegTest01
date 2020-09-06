@@ -1,1 +1,1 @@
-SprykerIntegTest01
+SprykerIntegTest01 Repository
